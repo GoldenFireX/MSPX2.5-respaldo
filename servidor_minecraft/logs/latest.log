@@ -652,3 +652,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jul2024 23:09:54.137] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [26Jul2024 23:13:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 blew up
 [26Jul2024 23:13:35.748] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
+[26Jul2024 23:40:51.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Take Aim]
+[26Jul2024 23:41:25.384] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-54, y=-20, z=404}
+[26Jul2024 23:44:27.721] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-326, y=-20, z=-136}
+[26Jul2024 23:48:27.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Getting an Upgrade]
+[26Jul2024 23:49:27.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Toxic Personality]
+[26Jul2024 23:49:34.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [A Terrible Fortress]
+[26Jul2024 23:49:40.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 was burnt to a crisp whilst fighting Blaze
+[26Jul2024 23:49:40.384] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
+[26Jul2024 23:50:11.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/19005, l='ServerLevel[world]', x=88.89, y=-20.00, z=102.35] died: Toxic Slime was killed
+[26Jul2024 23:51:05.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
