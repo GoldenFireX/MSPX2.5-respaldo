@@ -636,3 +636,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jul2024 22:34:35.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
 [26Jul2024 22:35:15.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [26Jul2024 22:35:43.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13087ms or 261 ticks behind
+[26Jul2024 22:36:03.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4807ms or 96 ticks behind
+[26Jul2024 22:36:20.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[26Jul2024 22:36:39.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Jul2024 22:37:31.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[26Jul2024 22:46:01.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[26Jul2024 22:46:01.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
