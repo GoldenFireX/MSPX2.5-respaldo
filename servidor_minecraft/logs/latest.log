@@ -648,3 +648,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jul2024 23:07:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
 [26Jul2024 23:08:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [The Beginning of An Adventure]
 [26Jul2024 23:08:48.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Stare Into Despair]
+[26Jul2024 23:09:53.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by ACU4
+[26Jul2024 23:09:54.137] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Jul2024 23:13:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 blew up
+[26Jul2024 23:13:35.748] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
