@@ -642,3 +642,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jul2024 22:37:31.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
 [26Jul2024 22:46:01.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
 [26Jul2024 22:46:01.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[26Jul2024 23:02:27.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACU4[/100.111.137.60:52200] logged in with entity id 6148 at (-20.30986956057541, 71.5, 143.87118155978123)
+[26Jul2024 23:02:27.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 joined the game
+[26Jul2024 23:07:06.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/100.123.181.58:50887] logged in with entity id 7209 at (-10.712656695923146, 75.0, 170.54332402562554)
+[26Jul2024 23:07:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[26Jul2024 23:08:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [The Beginning of An Adventure]
+[26Jul2024 23:08:48.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Stare Into Despair]
