@@ -938,5 +938,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2024-07-27 21:15:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

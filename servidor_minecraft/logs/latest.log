@@ -629,3 +629,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Jul2024 21:02:40.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [27Jul2024 21:05:32.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [27Jul2024 21:15:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Stay Out of my Peripheral!]
+[27Jul2024 21:19:29.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACU4[/100.111.137.60:59762] logged in with entity id 9155 at (-12.1581845899198, 70.0, 142.72140788397078)
+[27Jul2024 21:19:29.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 joined the game
+[27Jul2024 21:22:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> metete a discord puñso
+[27Jul2024 21:26:55.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
