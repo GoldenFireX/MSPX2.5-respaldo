@@ -218,7 +218,9 @@
       "cooked_porkchop": "2024-07-23 20:42:26 +0000",
       "cooked_mutton": "2024-07-27 22:23:22 +0000",
       "cooked_beef": "2024-07-23 20:46:07 +0000",
+      "potato": "2024-07-27 23:08:55 +0000",
       "bread": "2024-07-27 22:07:10 +0000",
+      "golden_apple": "2024-07-27 23:10:10 +0000",
       "cookie": "2024-07-23 20:46:46 +0000",
       "rotten_flesh": "2024-07-23 20:35:13 +0000",
       "melon_slice": "2024-07-23 20:42:16 +0000"
@@ -477,6 +479,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2024-07-27 23:25:47 +0000"
+    },
+    "done": true
+  },
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2024-07-27 22:13:38 +0000"
@@ -510,6 +518,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-07-27 22:21:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-07-27 23:26:36 +0000"
     },
     "done": true
   },

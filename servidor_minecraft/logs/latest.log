@@ -752,3 +752,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Jul2024 23:12:48.878] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/58936, l='ServerLevel[world]', x=767.50, y=70.00, z=254.50]
 [27Jul2024 23:13:02.071] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/59072, l='ServerLevel[world]', x=810.50, y=71.00, z=269.50]
 [27Jul2024 23:13:47.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[27Jul2024 23:14:08.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5351ms or 107 ticks behind
+[27Jul2024 23:14:12.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Serious Dedication]
+[27Jul2024 23:15:27.702] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/59750, l='ServerLevel[world]', x=835.50, y=78.00, z=207.50]
+[27Jul2024 23:15:30.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/59757, l='ServerLevel[world]', x=848.50, y=75.00, z=210.50]
+[27Jul2024 23:16:00.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved wrongly! 0.3237118284245355
+[27Jul2024 23:16:00.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved wrongly! 0.7511604898088251
+[27Jul2024 23:16:06.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved wrongly! 0.3088346085508249
+[27Jul2024 23:16:06.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved wrongly! 0.8408641130868943
+[27Jul2024 23:16:18.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved wrongly! 0.2859592953059149
+[27Jul2024 23:16:18.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved wrongly! 0.7862406627593401
+[27Jul2024 23:16:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 was doomed to fall
+[27Jul2024 23:16:27.920] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
+[27Jul2024 23:17:36.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[27Jul2024 23:17:53.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[27Jul2024 23:19:16.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ACU4) moved wrongly! 0.2785916256641485
+[27Jul2024 23:19:20.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ACU4) moved wrongly! 0.26225055184613666
+[27Jul2024 23:19:20.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ACU4) moved wrongly! 0.7965479143533685
+[27Jul2024 23:19:20.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ACU4) moved wrongly! 0.3309308897514711
+[27Jul2024 23:19:24.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ACU4) moved wrongly! 0.38027260529921136
+[27Jul2024 23:19:24.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ACU4) moved wrongly! 0.9138882598131204
+[27Jul2024 23:19:46.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 was slain by Zombie
+[27Jul2024 23:19:46.682] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
+[27Jul2024 23:22:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 was slain by Hoglin
+[27Jul2024 23:22:03.046] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
+[27Jul2024 23:22:28.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[27Jul2024 23:24:15.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[27Jul2024 23:24:29.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Wither Skeleton
+[27Jul2024 23:24:29.105] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Jul2024 23:24:39.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[27Jul2024 23:25:47.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [First Prayer]
+[27Jul2024 23:26:36.203] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/66044, l='ServerLevel[world]', x=-31.50, y=77.00, z=140.50]
+[27Jul2024 23:26:36.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Where Is The Stone Pen?]
+[27Jul2024 23:26:47.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> hola
+[27Jul2024 23:27:02.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> aasda
+[27Jul2024 23:27:15.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[27Jul2024 23:27:48.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> asadadas
+[27Jul2024 23:28:47.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> asadasdsa
+[27Jul2024 23:34:36.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall
+[27Jul2024 23:34:36.913] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Jul2024 23:34:52.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
