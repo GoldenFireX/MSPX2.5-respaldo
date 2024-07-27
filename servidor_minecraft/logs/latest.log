@@ -187,3 +187,4 @@
 [27Jul2024 02:03:22.634] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/79882, l='ServerLevel[world]', x=848.50, y=75.00, z=209.50]
 [27Jul2024 02:40:59.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Spider
 [27Jul2024 02:40:59.616] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Jul2024 03:49:11.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/102002, l='ServerLevel[world]', x=59.50, y=74.00, z=-85.50]
