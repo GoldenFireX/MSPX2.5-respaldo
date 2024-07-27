@@ -122,3 +122,21 @@
 [27Jul2024 01:14:35.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.25143791075072386
 [27Jul2024 01:14:35.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.6513623385537244
 [27Jul2024 01:15:57.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[27Jul2024 01:27:08.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACU4 lost connection: Disconnected
+[27Jul2024 01:27:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 left the game
+[27Jul2024 01:34:14.312] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=401, y=5, z=354}
+[27Jul2024 01:34:14.313] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=403, y=5, z=354}
+[27Jul2024 01:34:18.287] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[27Jul2024 01:34:18.296] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[27Jul2024 01:34:18.297] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[27Jul2024 01:34:18.310] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[27Jul2024 01:34:18.340] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[27Jul2024 01:34:18.342] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[27Jul2024 01:34:18.343] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[27Jul2024 01:34:18.344] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[27Jul2024 01:34:39.177] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=503, y=-23, z=368}
+[27Jul2024 01:34:39.187] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=503, y=-23, z=366}
+[27Jul2024 01:34:51.663] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=531, y=-46, z=405}
+[27Jul2024 01:35:07.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=654, y=-1, z=362}
+[27Jul2024 01:35:07.423] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=653, y=-1, z=362}
+[27Jul2024 01:35:09.079] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=658, y=7, z=350}
