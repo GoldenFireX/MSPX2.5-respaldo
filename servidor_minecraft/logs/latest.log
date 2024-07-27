@@ -185,3 +185,5 @@
 [27Jul2024 02:01:14.228] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1007, y=36, z=-44}
 [27Jul2024 02:02:10.483] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/79607, l='ServerLevel[world]', x=946.50, y=76.00, z=295.50]
 [27Jul2024 02:03:22.634] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/79882, l='ServerLevel[world]', x=848.50, y=75.00, z=209.50]
+[27Jul2024 02:40:59.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Spider
+[27Jul2024 02:40:59.616] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
