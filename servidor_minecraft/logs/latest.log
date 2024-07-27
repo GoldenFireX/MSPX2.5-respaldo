@@ -633,3 +633,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Jul2024 21:19:29.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 joined the game
 [27Jul2024 21:22:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> metete a discord puñso
 [27Jul2024 21:26:55.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[27Jul2024 21:30:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 was slain by The Moonflower
+[27Jul2024 21:30:56.934] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
+[27Jul2024 21:31:21.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Rotten to the Core]
