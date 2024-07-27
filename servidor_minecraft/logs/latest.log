@@ -21,3 +21,52 @@
 [27Jul2024 00:30:51.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30923, l='ServerLevel[world]', x=40.90, y=-20.00, z=44.98] died: Toxic Slime was killed
 [27Jul2024 00:37:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has reached the goal [Bone Crusher]
 [27Jul2024 00:42:43.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Prank em John!]
+[27Jul2024 00:45:24.148] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-515, y=-38, z=35}
+[27Jul2024 00:45:30.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[27Jul2024 00:45:32.046] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-551, y=-34, z=9}
+[27Jul2024 00:45:36.901] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-575, y=22, z=-45}
+[27Jul2024 00:45:39.800] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-443, y=-49, z=-206}
+[27Jul2024 00:45:47.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Jul2024 00:46:17.066] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-273, y=-22, z=-282}
+[27Jul2024 00:46:17.067] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-274, y=-22, z=-282}
+[27Jul2024 00:46:25.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[27Jul2024 00:46:28.257] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-181, y=-24, z=-310}
+[27Jul2024 00:46:43.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[27Jul2024 00:47:01.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[27Jul2024 00:47:22.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5695ms or 113 ticks behind
+[27Jul2024 00:47:29.272] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-723, y=-2, z=99}
+[27Jul2024 00:47:29.273] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-723, y=-2, z=100}
+[27Jul2024 00:47:36.799] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=105, y=-16, z=-303}
+[27Jul2024 00:47:41.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3934ms or 78 ticks behind
+[27Jul2024 00:47:43.936] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-762, y=-42, z=50}
+[27Jul2024 00:47:43.937] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-762, y=-42, z=48}
+[27Jul2024 00:47:58.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[27Jul2024 00:48:09.438] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39530, l='ServerLevel[world]', x=-77.50, y=72.00, z=-263.50]
+[27Jul2024 00:48:36.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[27Jul2024 00:48:59.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[27Jul2024 00:49:59.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[27Jul2024 00:50:18.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
+[27Jul2024 00:50:44.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[27Jul2024 00:50:52.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42082, l='ServerLevel[world]', x=-629.50, y=72.00, z=16.50]
+[27Jul2024 00:51:05.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5647ms or 112 ticks behind
+[27Jul2024 00:51:24.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[27Jul2024 00:51:37.988] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43295, l='ServerLevel[world]', x=-639.50, y=71.00, z=11.50]
+[27Jul2024 00:51:46.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6972ms or 139 ticks behind
+[27Jul2024 00:52:03.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[27Jul2024 00:52:08.415] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44036, l='ServerLevel[world]', x=-652.50, y=71.00, z=29.50]
+[27Jul2024 00:52:22.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Jul2024 00:52:32.247] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44556, l='ServerLevel[world]', x=-660.50, y=73.00, z=121.50]
+[27Jul2024 00:52:39.041] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44673, l='ServerLevel[world]', x=-684.50, y=73.00, z=14.50]
+[27Jul2024 00:52:43.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5402ms or 108 ticks behind
+[27Jul2024 00:53:01.065] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-906, y=-27, z=440}
+[27Jul2024 00:53:01.067] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-906, y=-27, z=441}
+[27Jul2024 00:53:04.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5937ms or 118 ticks behind
+[27Jul2024 00:53:27.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8305ms or 166 ticks behind
+[27Jul2024 00:53:51.135] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45670, l='ServerLevel[world]', x=-738.50, y=73.00, z=296.50]
+[27Jul2024 00:53:53.146] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45689, l='ServerLevel[world]', x=-652.50, y=71.00, z=31.50]
+[27Jul2024 00:53:53.805] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45715, l='ServerLevel[world]', x=-638.50, y=70.00, z=47.50]
+[27Jul2024 00:54:08.910] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45931, l='ServerLevel[world]', x=-691.50, y=72.00, z=249.50]
+[27Jul2024 00:54:09.586] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-906, y=-44, z=79}
+[27Jul2024 00:54:09.587] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-904, y=-44, z=79}
+[27Jul2024 00:54:14.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46065, l='ServerLevel[world]', x=-725.50, y=74.00, z=253.50]
+[27Jul2024 00:54:15.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
