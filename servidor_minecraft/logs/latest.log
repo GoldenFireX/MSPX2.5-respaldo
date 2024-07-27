@@ -662,3 +662,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jul2024 23:49:40.384] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
 [26Jul2024 23:50:11.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/19005, l='ServerLevel[world]', x=88.89, y=-20.00, z=102.35] died: Toxic Slime was killed
 [26Jul2024 23:51:05.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[26Jul2024 23:51:16.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/18963, l='ServerLevel[world]', x=64.32, y=-20.00, z=1.74] died: Toxic Slime was killed
+[26Jul2024 23:51:25.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5662ms or 113 ticks behind
+[26Jul2024 23:51:36.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/18968, l='ServerLevel[world]', x=66.74, y=-20.00, z=43.01] died: Toxic Slime was killed
+[26Jul2024 23:51:37.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/18994, l='ServerLevel[world]', x=105.89, y=-20.00, z=4.49] died: Toxic Slime was killed
+[26Jul2024 23:51:55.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/18986, l='ServerLevel[world]', x=115.20, y=-20.00, z=40.34] died: Toxic Slime was killed
+[26Jul2024 23:58:25.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Local Brewery]
