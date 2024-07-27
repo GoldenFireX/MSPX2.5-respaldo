@@ -802,3 +802,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Jul2024 23:45:04.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 withered away whilst fighting Wither Skeleton
 [27Jul2024 23:45:04.088] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [27Jul2024 23:45:42.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[27Jul2024 23:46:01.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[27Jul2024 23:48:04.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['BLADIMIR'/66141, l='ServerLevel[world]', x=1025.89, y=67.00, z=137.98] died: BLADIMIR fell from a high place
