@@ -643,3 +643,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Jul2024 22:06:42.056] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24229, l='ServerLevel[world]', x=-31.50, y=77.00, z=142.50]
 [27Jul2024 22:07:07.352] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24587, l='ServerLevel[world]', x=-33.50, y=77.00, z=142.50]
 [27Jul2024 22:08:59.753] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25304, l='ServerLevel[world]', x=-33.50, y=77.00, z=140.50]
+[27Jul2024 22:12:17.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3192ms or 63 ticks behind
+[27Jul2024 22:12:17.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -8.969219491209856,-1.0,-4.34414194872069
+[27Jul2024 22:12:17.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -9.418639265691809,-1.0,-4.678162623152204
+[27Jul2024 22:12:17.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -9.868033749249207,-1.0,-5.012239258557457
+[27Jul2024 22:12:17.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -10.312845277270526,-1.0,-5.35230929271259
+[27Jul2024 22:12:17.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -10.755204557158663,-1.0,-5.695586275043297
+[27Jul2024 22:12:17.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -11.196251687963354,-1.0,-6.040579231403115
+[27Jul2024 22:12:17.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved too quickly! 9.898932371779665,0.0,-1.5766304122047927
+[27Jul2024 22:12:17.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -11.636596713954987,-1.0,-6.386490371253075
+[27Jul2024 22:12:17.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved too quickly! 10.384607295201477,0.0,-1.5499497136589824
+[27Jul2024 22:12:17.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -12.076566057659534,-1.0,-6.732892812781998
+[27Jul2024 22:12:17.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved too quickly! 10.870773933869373,0.0,-1.5226417613639072
+[27Jul2024 22:12:17.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLADIMIR (vehicle of ACU4) moved too quickly! -12.516334381262595,-1.0,-7.079558140043844
+[27Jul2024 22:12:17.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved too quickly! 11.357203679561735,0.0,-1.494998178093688
+[27Jul2024 22:12:17.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved too quickly! 11.843774208577088,0.0,-1.467175005380433
+[27Jul2024 22:12:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Campfire Song Song]
+[27Jul2024 22:12:30.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.2528940629439447
+[27Jul2024 22:12:30.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.6065631867954338
+[27Jul2024 22:12:30.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.9782524109703417
+[27Jul2024 22:12:59.000] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27570, l='ServerLevel[world]', x=755.50, y=78.00, z=172.50]
+[27Jul2024 22:13:38.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Cover Me In Emeralds]
+[27Jul2024 22:13:42.046] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=486, y=-46, z=-180}
+[27Jul2024 22:13:57.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.3772074028361203
+[27Jul2024 22:13:57.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.7930946545528741
+[27Jul2024 22:15:43.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.2533563472212208
+[27Jul2024 22:15:43.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.7259875467450314
+[27Jul2024 22:15:43.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 1.2030803829115513
+[27Jul2024 22:16:02.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28400, l='ServerLevel[world]', x=736.50, y=82.00, z=191.50]
+[27Jul2024 22:17:02.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.34696400570229197
+[27Jul2024 22:17:03.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.7014778750082281
+[27Jul2024 22:17:03.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 1.0603543064590588
+[27Jul2024 22:17:03.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.36220269222539786
+[27Jul2024 22:17:06.652] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28834, l='ServerLevel[world]', x=733.50, y=81.00, z=170.50]
+[27Jul2024 22:17:54.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.25843855210001493
+[27Jul2024 22:17:54.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.5627942733254131
+[27Jul2024 22:17:54.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 0.8926377300325423
+[27Jul2024 22:17:54.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved wrongly! 1.0883000342009772
+[27Jul2024 22:18:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [This Must be a Sign!]
+[27Jul2024 22:18:30.872] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29768, l='ServerLevel[world]', x=803.50, y=74.00, z=218.50]
+[27Jul2024 22:19:29.160] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30077, l='ServerLevel[world]', x=833.50, y=78.00, z=207.50]
+[27Jul2024 22:20:57.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Into Fire]
+[27Jul2024 22:21:39.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 has made the advancement [Magic Writing]
+[27Jul2024 22:27:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 fell from a high place
+[27Jul2024 22:27:59.793] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
+[27Jul2024 22:30:21.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind

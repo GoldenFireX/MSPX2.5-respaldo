@@ -215,6 +215,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-07-23 20:42:26 +0000",
+      "cooked_mutton": "2024-07-27 22:23:22 +0000",
       "cooked_beef": "2024-07-23 20:46:07 +0000",
       "bread": "2024-07-27 22:07:10 +0000",
       "cookie": "2024-07-23 20:46:46 +0000",
@@ -463,9 +464,39 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-07-27 22:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-07-27 22:20:57 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-07-27 22:13:38 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2024-07-27 22:12:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-07-27 21:31:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-07-27 22:21:39 +0000"
     },
     "done": true
   },
