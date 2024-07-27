@@ -904,6 +904,18 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2024-07-27 00:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-07-27 00:26:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
       "shot_arrow": "2024-07-27 00:19:05 +0000"
