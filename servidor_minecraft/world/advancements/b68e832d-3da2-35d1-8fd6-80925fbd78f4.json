@@ -907,77 +907,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
+      "shot_arrow": "2024-07-27 00:19:05 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-27 06:26:20 +0000"
-    },
-    "done": false
+    "done": true
   },
   "incendium:toxic_heap/slime_poison": {
     "criteria": {
@@ -991,21 +925,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/use_tide_trident": {
+  "endrem:main/lost_eye": {
     "criteria": {
-      "shot_arrow": "2024-07-27 00:19:05 +0000"
+      "lost_eye": "2024-07-27 04:02:48 +0000"
     },
     "done": true
   },
   "tombstone:adventure/soul_magic": {
     "criteria": {
       "coded_trigger": "2024-07-27 05:36:09 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/lost_eye": {
-    "criteria": {
-      "lost_eye": "2024-07-27 04:02:48 +0000"
     },
     "done": true
   },
