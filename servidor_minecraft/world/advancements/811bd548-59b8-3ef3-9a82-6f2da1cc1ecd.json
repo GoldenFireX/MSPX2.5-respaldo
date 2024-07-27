@@ -489,6 +489,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-07-27 23:06:37 +0000"
+    },
+    "done": true
+  },
   "takesapillage:pillager_camp": {
     "criteria": {
       "in_pillager_camp": "2024-07-27 22:12:19 +0000"
