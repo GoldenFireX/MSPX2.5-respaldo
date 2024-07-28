@@ -685,3 +685,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Jul2024 22:57:08.157] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/MSPX2.5-respaldo/servidor_minecraft/./config/infernalmobs.cfg
 [28Jul2024 22:57:10.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [28Jul2024 23:01:12.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@133016fa[id=<null>,name=amigobuho360,properties={},legacy=false] (/127.36.130.47:56553) lost connection: Disconnected
+[28Jul2024 23:06:53.648] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[28Jul2024 23:06:53.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.36.130.47:48821] logged in with entity id 2060 at (-33.822353144438374, 68.0, 147.9461562407802)
+[28Jul2024 23:06:54.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[28Jul2024 23:06:55.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[28Jul2024 23:07:13.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[28Jul2024 23:08:04.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[28Jul2024 23:13:44.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: __Mondongo__[/127.242.98.3:58245] logged in with entity id 3196 at (-60.69999998807907, 59.0, 171.86169095005033)
+[28Jul2024 23:13:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ joined the game
+[28Jul2024 23:13:46.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[28Jul2024 23:14:35.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: __Mondongo__ lost connection: Timed out
+[28Jul2024 23:14:35.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ left the game
+[28Jul2024 23:15:30.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fa8346b[id=<null>,name=__Mondongo__,properties={},legacy=false] (/127.242.98.3:38929) lost connection: Disconnected
+[28Jul2024 23:16:01.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: __Mondongo__[/127.242.98.3:35493] logged in with entity id 3587 at (-60.69999998807907, 59.0, 171.86169095005033)
+[28Jul2024 23:16:02.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ joined the game
+[28Jul2024 23:16:29.850] [Server thread/WARN] [cgm/]: literal{amigobuho360}(b68e832d-3da2-35d1-8fd6-80925fbd78f4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 76
+[28Jul2024 23:16:31.645] [Server thread/WARN] [cgm/]: literal{amigobuho360}(b68e832d-3da2-35d1-8fd6-80925fbd78f4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 89
+[28Jul2024 23:16:52.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ has made the advancement [Getting an Upgrade]
+[28Jul2024 23:17:53.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> todo bien?
+[28Jul2024 23:18:10.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <__Mondongo__> obvio
+[28Jul2024 23:18:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> discord?
+[28Jul2024 23:18:48.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <__Mondongo__> voy
+[28Jul2024 23:19:41.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ has made the advancement [A Seedy Place]
+[28Jul2024 23:21:47.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: __Mondongo__ lost connection: Timed out
+[28Jul2024 23:21:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ left the game
+[28Jul2024 23:22:39.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: __Mondongo__[/127.242.98.3:57893] logged in with entity id 5404 at (-76.63003065231223, 67.0, 155.31389399121153)
+[28Jul2024 23:22:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ joined the game
+[28Jul2024 23:23:09.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: __Mondongo__ lost connection: Timed out
+[28Jul2024 23:23:09.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ left the game
+[28Jul2024 23:23:45.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: __Mondongo__[/127.242.98.3:43393] logged in with entity id 5750 at (-76.63003065231223, 67.0, 155.31389399121153)
+[28Jul2024 23:23:45.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ joined the game
+[28Jul2024 23:25:57.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
