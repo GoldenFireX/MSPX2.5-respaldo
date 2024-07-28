@@ -716,3 +716,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Jul2024 23:23:45.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: __Mondongo__[/127.242.98.3:43393] logged in with entity id 5750 at (-76.63003065231223, 67.0, 155.31389399121153)
 [28Jul2024 23:23:45.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ joined the game
 [28Jul2024 23:25:57.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[28Jul2024 23:26:14.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[28Jul2024 23:31:10.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7838, l='ServerLevel[world]', x=-85.29, y=-256.00, z=20.56] died, message: 'Villager was killed'
+[28Jul2024 23:34:31.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: __Mondongo__ lost connection: Timed out
+[28Jul2024 23:34:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: __Mondongo__ left the game
