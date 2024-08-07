@@ -57,3 +57,18 @@
 [07Aug2024 01:07:20.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [07Aug2024 01:07:42.746] [Server thread/WARN] [cgm/]: literal{ACU4}(811bd548-59b8-3ef3-9a82-6f2da1cc1ecd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 111
 [07Aug2024 01:07:43.600] [Server thread/WARN] [cgm/]: literal{ACU4}(811bd548-59b8-3ef3-9a82-6f2da1cc1ecd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 115
+[07Aug2024 01:08:03.280] [Server thread/WARN] [cgm/]: literal{amigobuho360}(b68e832d-3da2-35d1-8fd6-80925fbd78f4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 131
+[07Aug2024 01:08:12.619] [Server thread/WARN] [cgm/]: literal{ACU4}(811bd548-59b8-3ef3-9a82-6f2da1cc1ecd) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 111
+[07Aug2024 01:08:19.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 43626ms or 872 ticks behind
+[07Aug2024 01:11:17.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Aug2024 01:11:51.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Thine end is here.]
+[07Aug2024 01:12:03.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Strike upon thee]
+[07Aug2024 01:13:59.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[07Aug2024 01:14:45.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35237, l='ServerLevel[world]', x=-80.18, y=-256.00, z=19.87] died, message: 'Villager was killed'
+[07Aug2024 01:15:23.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[07Aug2024 01:15:36.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 was slain by Gorilla
+[07Aug2024 01:15:36.048] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
+[07Aug2024 01:15:45.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Aug2024 01:16:03.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3457ms or 69 ticks behind
+[07Aug2024 01:16:08.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACU4 lost connection: Disconnected
+[07Aug2024 01:16:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACU4 left the game
