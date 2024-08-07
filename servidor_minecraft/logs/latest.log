@@ -22,3 +22,12 @@
 [07Aug2024 00:29:21.376] [Server thread/INFO] [tombstone/]: The player ACU4 has successfully been saved
 [07Aug2024 00:30:37.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19803, l='ServerLevel[world]', x=-80.18, y=-256.00, z=19.87] died, message: 'Villager was killed'
 [07Aug2024 00:34:31.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[07Aug2024 00:34:51.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5616ms or 112 ticks behind
+[07Aug2024 00:35:09.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
+[07Aug2024 00:41:23.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[07Aug2024 00:42:14.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[07Aug2024 00:42:41.027] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[07Aug2024 00:44:28.448] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[07Aug2024 00:45:26.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[07Aug2024 00:45:26.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved too quickly! 9.86188962999097,1.0,-2.495308495625437
+[07Aug2024 00:45:26.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of amigobuho360) moved too quickly! 10.344908379436788,1.0,-2.501196248052281
