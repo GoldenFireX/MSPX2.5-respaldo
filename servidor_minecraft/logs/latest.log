@@ -802,3 +802,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Aug2024 15:13:44.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Almost Unkillable]
 [13Aug2024 15:13:44.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 drowned
 [13Aug2024 15:14:05.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[13Aug2024 15:24:33.695] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10954, l='ServerLevel[world]', x=-90.68, y=-256.00, z=40.37] died, message: 'Villager was killed'
+[13Aug2024 15:25:01.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
