@@ -1379,6 +1379,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2024-08-13 15:04:31 +0000"
+    },
+    "done": true
+  },
   "call_of_yucutan:obtain_pepper_seeds": {
     "criteria": {
       "obtain_pepper_seeds_0": "2024-08-13 14:56:58 +0000"
