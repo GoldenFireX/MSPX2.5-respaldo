@@ -1405,5 +1405,17 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/orc": {
+    "criteria": {
+      "kill": "2024-08-15 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2024-08-15 22:01:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
