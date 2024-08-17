@@ -831,3 +831,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Aug2024 02:51:19.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
 [17Aug2024 02:56:03.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14068, l='ServerLevel[world]', x=-81.58, y=-256.00, z=19.77] died, message: 'Villager was killed'
 [17Aug2024 03:02:09.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[17Aug2024 03:11:31.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17833, l='ServerLevel[world]', x=-81.58, y=-256.00, z=19.77] died, message: 'Villager was killed'
