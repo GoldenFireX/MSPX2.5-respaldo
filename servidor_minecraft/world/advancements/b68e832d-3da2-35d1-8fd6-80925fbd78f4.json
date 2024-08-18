@@ -1424,5 +1424,23 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-08-18 03:04:56 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2024-08-18 03:20:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-08-18 03:19:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
