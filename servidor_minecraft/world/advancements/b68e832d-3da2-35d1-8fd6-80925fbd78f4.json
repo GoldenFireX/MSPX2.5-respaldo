@@ -447,7 +447,8 @@
   "quark:get_all_corundum": {
     "criteria": {
       "red": "2024-07-14 23:31:24 +0000",
-      "green": "2024-07-14 23:32:00 +0000"
+      "green": "2024-07-14 23:32:00 +0000",
+      "black": "2024-08-17 03:56:10 +0000"
     },
     "done": false
   },
@@ -1414,6 +1415,12 @@
   "grimoireofgaia:main/harpy": {
     "criteria": {
       "kill": "2024-08-15 22:01:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-08-17 04:01:40 +0000"
     },
     "done": true
   },
