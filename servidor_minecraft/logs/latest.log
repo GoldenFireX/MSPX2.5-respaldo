@@ -821,3 +821,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Aug2024 03:19:53.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [It Belongs in a Museum]
 [18Aug2024 03:20:58.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Fallen Sorcerer]
 [18Aug2024 03:21:33.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Aug2024 03:23:18.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 is bleeding. amigobuho360 was slain by Vindicator
+[18Aug2024 03:23:18.592] [Server thread/WARN] [tombstone/]: The death event of the player amigobuho360 was canceled by another mod
+[18Aug2024 03:23:18.791] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[18Aug2024 03:23:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Vindicator
+[18Aug2024 03:23:36.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[18Aug2024 03:25:17.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18Aug2024 03:25:18.137] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-310, y=33, z=1032}
+[18Aug2024 03:25:18.138] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-308, y=33, z=1032}
+[18Aug2024 03:25:33.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Cobweb Entanglement]
+[18Aug2024 03:25:37.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[18Aug2024 03:32:15.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
